@@ -1,20 +1,20 @@
 ---
-title: "Product Name"
+title: "Tiny Succulent"
 date: 2020-07-13T16:20:55+10:00
 draft: true
 
 # meta description
-description : "For Glowing Skin"
+description : "succulent description"
 
 # product Price
-price: "20.00$"
+price: "$19.95"
 priceBefore: ""
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "succulent short description"
 
 #product ID
-productID: "3"
+productID: "1"
 
 # type must be "products"
 type: "products"

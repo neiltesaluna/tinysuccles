@@ -94,11 +94,11 @@ mapMarker = ""
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = ""
+mobile = "0404 040 040"
 email = "demo@email.com"
-location = "Melbourne, Australia"
+location = "Hillside, Melbourne, Australia"
 # copyright
-copyright = "| Copyright &copy; 2020 All Rights Reserved |"
+copyright = "| Copyright &copy; 2020 Tiny Succles |"
 
   # Preloader
   [params.preloader]
@@ -111,20 +111,8 @@ copyright = "| Copyright &copy; 2020 All Rights Reserved |"
   link = "#"
 
   [[params.social]]
-  icon = "ti-twitter-alt"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-youtube"
-  link = "#"
-
-  [[params.social]]
   icon = "ti-instagram"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-pinterest"
-  link = "#"
+  link = "https://www.instagram.com/tinysuccles/"
 
   # Contact Form
   [params.contact]
