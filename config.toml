@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "//tinysuccles.netlify.app/"
 languageCode = "en-us"
 title = "Tiny Succles"
 theme = "hargo"
