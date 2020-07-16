@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "Your little companion"
-  content : "These little plants will bring colour into your space"
+  content : "These little plants will bring life into your space"
   image : "images/banner.jpg"
 
 ######################## Products #############################

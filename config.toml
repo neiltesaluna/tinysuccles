@@ -86,6 +86,8 @@ home = "Home"
 # Meta data
 description = "This is meta description"
 author = "Tiny Succles"
+# snipcart
+snipcartAPI = "ZTQ4Y2E1NTctMDU2Ny00ZjM5LWJiMjYtOTZhMzQ1NzBjNDdlNjM3MzA0ODk0NDk3MjU1NTA3"
 # google map
 gmapAPI = ""
 mapLatitude = ""
