@@ -296,7 +296,7 @@
       font-weight: 500;
     }
   }
-  
+
   pre {
     padding: 10px 20px;
     background: $light;
@@ -346,7 +346,7 @@
       }
 
       img {
-        height: auto;
+        max-height: 250px;
         max-width: 100%;
       }
     }
