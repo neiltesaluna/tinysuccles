@@ -98,7 +98,7 @@ mobile = "0404 040 040"
 email = "demo@email.com"
 location = "Hillside, Melbourne, Australia"
 # copyright
-copyright = "| Copyright &copy; 2020 Tiny Succles |"
+copyright = "Copyright &copy; 2020 Tiny Succles"
 
   # Preloader
   [params.preloader]
