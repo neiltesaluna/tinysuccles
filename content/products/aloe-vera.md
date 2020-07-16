@@ -1,7 +1,7 @@
 ---
 title: "Aloe Vera"
 date: 2020-07-16T15:34:34+10:00
-draft: true
+draft: false
 
 # meta description
 description : "aloe vera description"
