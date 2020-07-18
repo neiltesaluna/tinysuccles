@@ -7,8 +7,8 @@ draft: false
 description : "succulent description"
 
 # product Price
-price: "$19.95"
-priceBefore: ""
+price: 19.95
+priceBefore: 
 
 # Product Short Description
 shortDescription: "succulent short description"

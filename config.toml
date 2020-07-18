@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "//tinysuccles.netlify.app/"
-languageCode = "en-us"
+languageCode = "en"
 title = "Tiny Succles"
 theme = "hargo"
 summaryLength = "20"
