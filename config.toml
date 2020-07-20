@@ -119,4 +119,4 @@ copyright = "Copyright &copy; 2020 Tiny Succles"
 
   # Contact Form
   [params.contact]
-  formAction = "#" # contact form works with formspree.io"
+  formAction = "https://formspree.io/xayplrpo" # contact form works with formspree.io"
