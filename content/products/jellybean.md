@@ -10,8 +10,14 @@ description : "A species of Sedum from the plant family Crassulaceae."
 price: 14.95
 priceBefore:
 
-# product weight
+# product shipping specification (weight in grams, dimensions in cm)
 productWeight: 600
+productWidth: 10
+productLength: 10
+productHeight: 12
+
+# maximum amount users can order
+maxOrder: 4
 
 # Product Short Description
 shortDescription: "Sedum rubrotinctum or Sedum × rubrotinctum, and commonly known as jelly-beans, jelly bean plant, or pork and beans. It is a species of Sedum from the plant family Crassulaceae. It is a succulent plant originating in Mexico."

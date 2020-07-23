@@ -181,9 +181,19 @@
               <span class="lead text-primary">${{ .Params.Price }}</span>
               <s>{{ .Params.PriceBefore }}</s>
             </div>
-            <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
-              data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
-              {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-weight="{{ .Params.productWeight }}">
+            <button class="snipcart-add-item btn btn-sm btn-outline-primary"
+
+              data-item-id="{{ .Params.ProductID }}"
+              data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }}
+              data-item-image="{{ .image | absURL }}"
+              {{ end }} data-item-price="{{ .Params.Price }}"
+              data-item-url="{{ .Permalink }}"
+              data-item-weight="{{ .Params.productWeight }}"
+              data-item-width="{{ .Params.productWidth }}"
+              data-item-length="{{ .Params.productLength }}"
+              data-item-height="{{ .Params.productHeight }}"
+              data-item-max-quantity="{{ .Params.maxOrder }}">
+
               Add to cart
             </button>
           </div>
