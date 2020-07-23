@@ -14,6 +14,8 @@ Please read this terms and conditions stated below, which outline a lot of legal
 ## Refund policy
 We do not offer refunds for change of mind however if you are unhappy with your purchase then please get in touch and we'd be happy do discuss.
 
+Once outside our care, we do not hold responsibility for the succulent's lifetime. Once the succulent is delivered to you, it is now your responsibility to fulfil it's needs.
+
 Our products are fragile and we rely on third party couriers for shipping, so please get in contact with us if your product arrives damaged.
 
 Refunds are generally processed within 3-5 business days after we receive your claim and find it eligible for a return.
