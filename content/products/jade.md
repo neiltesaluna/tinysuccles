@@ -3,7 +3,7 @@ title: "Jade"
 date: 2020-07-23T21:12:10+10:00
 draft: true
 # meta description
-description : "."
+description : "short description"
 
 # product Price
 price: 14.95
@@ -19,7 +19,7 @@ productHeight: 12
 maxOrder: 4
 
 # Product Short Description
-shortDescription: "Crassula ovata, commonly known as jade plant, lucky plant, money plant or money tree, is a succulent plant with small pink or white flowers that is native to the KwaZulu-Natal and Eastern Cape provinces of South Africa, and Mozambique."
+shortDescription: "product description"
 
 #product ID
 productID: "3"

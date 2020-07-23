@@ -5,7 +5,7 @@ image: "images/blog/succle-care.jpg"
 author: "Tiny Succles"
 draft: false
 ---
-# How to take care of your succulent
+## How to take care of your succulent
 
 ### Watering
 Lightly spray directly on to the soil, enough to soak the surface. Wait until the soil is completely dry before you water again.
