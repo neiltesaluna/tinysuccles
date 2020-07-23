@@ -1,7 +1,7 @@
 ---
 title: "Jade"
 date: 2020-07-23T21:12:10+10:00
-draft: true
+draft: false
 # meta description
 description : "short description"
 
