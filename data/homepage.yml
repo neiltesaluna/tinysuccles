@@ -3,7 +3,26 @@ banner:
   enable : true
   title : "Your little companion"
   content : "These little plants will bring life to your space"
+  image : "images/circle.png"
+
+
+########################## About ##############################
+about:
+  enable : true
+  title : "About Our Product"
+  content : "Our succulents are made with love. Handgrown and handcrafted in our very own backyard and packaged with care. These little beauties will certainly bring life into your very own space. "
+  image : "images/bedroom.jpg"
+
+###################### Call to action ########################
+cta:
+  enable : true
+  title : "25% off on your purchase"
+  content : "Opening special. Limited time only."
   image : "images/banner.png"
+  overlayImage : "images/cta-overlay.png"
+  button:
+    label : "All Products"
+    link : "products"
 
 ######################## Products #############################
 products:
