@@ -7,7 +7,7 @@ draft: false
 description : "A species of Sedum from the plant family Crassulaceae."
 
 # product Price
-price: 24.95
+price: 14.95
 priceBefore:
 
 # Product Short Description
