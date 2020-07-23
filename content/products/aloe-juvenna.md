@@ -10,6 +10,9 @@ description : "A species of plant in the genus Aloe."
 price: 16.95
 priceBefore:
 
+# product weight
+productWeight: 600
+
 # Product Short Description
 shortDescription: "Aloe juvenna is a species of plant in the genus Aloe. It is popular in cultivation but extremely rare in its natural habitat in Kenya."
 
