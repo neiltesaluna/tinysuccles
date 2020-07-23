@@ -7,8 +7,8 @@ draft: false
 description : "A species of plant in the genus Aloe."
 
 # product Price
-price: 16.95
-priceBefore:
+price: 16.50
+priceBefore: "$21.95"
 
 # product shipping specification (weight in grams, dimensions in cm)
 productWeight: 600
