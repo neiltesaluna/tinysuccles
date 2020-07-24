@@ -65,6 +65,9 @@
 {{ end }}
 <!-- /about -->
 
+<div class="parallax img-fluid" style="background-image: url({{ .Site.Params.parallaxbtm | absURL }});"></div>
+
+
 {{ if .Site.Data.homepage.cta.enable }}
 {{ partial "cta.html" . }}
 {{ end }}

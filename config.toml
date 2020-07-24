@@ -86,7 +86,7 @@ copyright = "Copyright &copy; 2020 Tiny Succles"
 
 #################### Parallax images ################################
 parallaxtop = "images/parallaxtop.jpg"
-parallaxbtm = ""
+parallaxbtm = "images/parallaxbtm.jpg"
 
 
 
