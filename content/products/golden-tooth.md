@@ -1,5 +1,5 @@
 ---
-title: "Golden Tooth"
+title: "Aloe"
 date: 2020-19-16T15:33:12+10:00
 draft: false
 

@@ -1,8 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Your little companion"
-  content : "These little plants will bring life to your space"
+  title : "We are now open! 25% off your purchase."
+  content : "Free local delivery (Postcodes 3023, 3037, 3038, 3335, 3336) with minimum of two orders. Opening promo, limited time only, ends 1 September 2020."
   image : "images/circle.png"
 
 
