@@ -21,10 +21,11 @@
               <s>{{ .Params.PriceBefore }}</s>
             </div>
             <button class="snipcart-add-item btn btn-sm btn-outline-primary"
-            
+
               data-item-id="{{ .Params.ProductID }}"
               data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }}
               data-item-image="{{ .image | absURL }}"
+              data-item-description="{{ .Params.description }}"
               {{ end }} data-item-price="{{ .Params.Price }}"
               data-item-url="{{ .Permalink }}"
               data-item-weight="{{ .Params.productWeight }}"
