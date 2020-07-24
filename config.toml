@@ -99,7 +99,7 @@ parallaxbtm = "images/parallaxbtm.jpg"
   # Social Site
   [[params.social]]
   icon = "ti-facebook"
-  link = "#"
+  link = "https://www.facebook.com/tinysuccles"
 
   [[params.social]]
   icon = "ti-instagram"
