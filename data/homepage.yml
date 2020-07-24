@@ -19,7 +19,7 @@ cta:
   title : "25% off on your purchase"
   content : "Opening special. Limited time only."
   image : "images/banner.png"
-  overlayImage : "images/cta-overlay.png"
+  overlayImage : ""
   button:
     label : "All Products"
     link : "products"

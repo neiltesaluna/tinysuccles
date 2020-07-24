@@ -35,6 +35,28 @@
   }
 }
 
+body, html {
+  height: 100%;
+}
+
+.parallax {
+  /* Full height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+/* Turn off parallax scrolling for tablets and phones. Increase the pixels if needed */
+@media only screen and (max-device-width: 1024px) {
+  .parallax {
+    height: 30%;
+    background-position: left;
+  }
+}
+
 .content-center {
   position: absolute;
   left: 50%;
