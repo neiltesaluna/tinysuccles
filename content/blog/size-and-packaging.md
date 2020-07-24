@@ -2,6 +2,7 @@
 title: "Size and Packaging"
 date: 2020-07-23T21:36:42+10:00
 image: "images/blog/packaging.jpg"
+imagebtm: "images/blog/size.jpg"
 author: "Tiny Succles"
 draft: false
 ---
@@ -17,6 +18,3 @@ Pot height: 8cm
 Pot width: 8cm
 Pot length: 8cm
 ```
-
-
-![image](/images/blog/size.jpg)
