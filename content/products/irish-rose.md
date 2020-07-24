@@ -3,7 +3,7 @@ title: "Irish Rose"
 date: 2020-07-23T22:00:14+10:00
 draft: false
 # meta description
-description : "Endemic to the western Canary Islands."
+description : "It is endemic to the western Canary Islands."
 
 # product Price
 price: 14.95
