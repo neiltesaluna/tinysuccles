@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "//tinysuccles.com/"
+baseURL = "/"
 languageCode = "en"
 title = "Tiny Succles"
 theme = "hargo"
