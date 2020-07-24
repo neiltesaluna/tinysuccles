@@ -1,10 +1,10 @@
 ---
-title: "Jely Bean"
+title: "Jelly Bean"
 date: 2020-07-13T16:20:55+10:00
 draft: false
 
 # meta description
-description : "A species of Sedum from the plant family Crassulaceae."
+description : "A succulent plant originating in Mexico."
 
 # product Price
 price: 16.49
@@ -20,7 +20,7 @@ productHeight: 12
 maxOrder: 4
 
 # Product Short Description
-shortDescription: "Sedum rubrotinctum or Sedum × rubrotinctum, and commonly known as jelly-beans, jelly bean plant, or pork and beans. It is a species of Sedum from the plant family Crassulaceae. It is a succulent plant originating in Mexico."
+shortDescription: "Sedum rubrotinctum which is commonly known as Jelly Beans, is a species of Sedum from the plant family Crassulaceae. It is a succulent plant originating in Mexico."
 
 #product ID
 productID: "1"

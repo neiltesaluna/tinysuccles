@@ -9,7 +9,7 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
+  title : "About our product"
   content : "Our succulents are made with love. Handgrown and handcrafted in our very own backyard and packaged with care. These little beauties will certainly bring life into your very own space. "
   image : "images/bedroom.jpg"
 

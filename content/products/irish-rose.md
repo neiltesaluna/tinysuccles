@@ -1,9 +1,9 @@
 ---
-title: "Aeonium Arboreum"
+title: "Irish Rose"
 date: 2020-07-23T22:00:14+10:00
 draft: false
 # meta description
-description : "short description"
+description : "Endemic to the western Canary Islands."
 
 # product Price
 price: 14.95
@@ -19,7 +19,7 @@ productHeight: 12
 maxOrder: 4
 
 # Product Short Description
-shortDescription: "product description"
+shortDescription: "Aeonium arboreum which is commonly known as the Irish Rose, is a subtropical subshrub from the plant family Crassulaceae. The plant is endemic to the western Canary Islands of Tenerife, La Palma, El Hierro, La Gomera and Gran Canaria."
 
 #product ID
 productID: "4"
@@ -30,7 +30,7 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/aeonium-arboreum1.jpg"
-  - image: "images/products/aeonium-arboreum2.jpg"
-  - image: "images/products/aeonium-arboreum3.jpg"
+  - image: "images/products/irish-rose1.jpg"
+  - image: "images/products/irish-rose2.jpg"
+  - image: "images/products/irish-rose3.jpg"
 ---

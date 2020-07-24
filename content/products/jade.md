@@ -3,7 +3,7 @@ title: "Jade"
 date: 2020-07-23T21:12:10+10:00
 draft: false
 # meta description
-description : "short description"
+description : "Native to the KwaZulu-Natal and Eastern Cape provinces of South Africa."
 
 # product Price
 price: 14.95
@@ -19,7 +19,7 @@ productHeight: 12
 maxOrder: 4
 
 # Product Short Description
-shortDescription: "product description"
+shortDescription: "Crassula ovata which is commonly known as the Jade Plant, is a species of Crassula from the plant family Crassulaceae. It is native to the KwaZulu-Natal and Eastern Cape provinces of South Africa, and Mozambique."
 
 #product ID
 productID: "3"
