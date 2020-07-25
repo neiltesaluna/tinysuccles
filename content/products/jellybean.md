@@ -7,8 +7,8 @@ draft: false
 description : "A succulent plant originating in Mexico."
 
 # product Price
-price: 16.49
-priceBefore: "$21.95"
+price: 14.95
+priceBefore: "$19.95"
 
 # product shipping specification (weight in grams, dimensions in cm)
 productWeight: 600
