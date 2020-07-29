@@ -249,6 +249,40 @@
 {{ end }}
 <!-- /testimonial -->
 
+
+
+<!-- blogs -->
+{{ if .Site.Data.homepage.blog.enable }}
+<section class="section pb-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center mb-4">
+        {{ with .Site.Data.homepage.blog }}
+        <h2>{{ .title | markdownify }}</h2>
+        <p>{{ .subtitle | markdownify }}</p>
+        {{ end }}
+      </div>
+      {{ range first 4 (where .Site.RegularPages "Type" "blog") }}
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <div class="card border-0 text-center">
+          <a href="{{ .Permalink }}">
+            <img src="{{ .Params.image }}" style="max-height: 190px; object-fit: cover;" alt="{{ .Title }}" class="card-img-top border-0">
+          </a>
+          <div class="card-body">
+            <a href="{{ .Permalink }}" class="h4">{{ .Title | markdownify }}</a>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    <div class="text-center mt-2 mb-5">
+      <a href="/blog" class="btn btn-sm btn-outline-primary">All Blogs</a>
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- /blogs -->
+
 {{ if .Site.Data.homepage.cta.enable }}
 {{ partial "cta.html" . }}
 {{ end }}

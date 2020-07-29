@@ -3,6 +3,7 @@ title: "Succle Care"
 date: 2020-07-23T21:14:12+10:00
 image: "images/blog/succle-care.jpg"
 author: "Tiny Succles"
+type: "blog"
 draft: false
 ---
 ## How to take care of your succulent

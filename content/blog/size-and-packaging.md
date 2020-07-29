@@ -4,6 +4,7 @@ date: 2020-07-23T21:36:42+10:00
 image: "images/blog/packaging.jpg"
 imagebtm: "images/blog/size.jpg"
 author: "Tiny Succles"
+type: "blog"
 draft: false
 ---
 

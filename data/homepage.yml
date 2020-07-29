@@ -29,3 +29,11 @@ products:
   enable : true
   title : "Products List"
   # product item comes from "content/products"
+
+  ################################ Blog ###################################
+blog:
+  enable : true
+  title : "Recent Blogs"
+  subtitle : "A collection of the most up to date blog posts are shown below."
+
+  # blogs comes from "content/blog"
