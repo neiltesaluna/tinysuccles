@@ -3,7 +3,7 @@ title: "Mini Pine Tree"
 date: 2020-07-24T17:05:47+10:00
 draft: false
 # meta description
-description : "A succulent plant native to Southern Africa"
+description : "A succulent plant native to Southern Africa."
 
 # product Price
 price: 14.95
