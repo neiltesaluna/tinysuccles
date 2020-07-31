@@ -20,7 +20,7 @@ priceBefore: "$19.95"
 maxOrder: 4
 
 # Product Short Description
-shortDescription: "Aloe nobilis which is commonly known as the Golden Tooth, is a species of Crassula from the plant family Asphodelaceae. It is a hybrid, of Aloe perfoliata with Aloe brevifolia.\n\n**This product is available for Local Delivery or Pick Up only*"
+shortDescription: "Aloe nobilis which is commonly known as the Golden Tooth, is a species of Crassula from the plant family Asphodelaceae. It is a hybrid, of Aloe perfoliata with Aloe brevifolia.  \n**This product is available for Local Delivery or Pick Up only.*"
 
 #product ID
 productID: "2"
