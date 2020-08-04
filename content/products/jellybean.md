@@ -4,7 +4,7 @@ date: 2020-07-13T16:20:55+10:00
 draft: false
 
 # meta description
-description : "A succulent plant originating in Mexico."
+description : "A succulent plant originating in Mexico. *Please see product information."
 
 # product Price
 price: 14.95
@@ -20,7 +20,7 @@ priceBefore: "$19.95"
 maxOrder: 4
 
 # Product Short Description
-shortDescription: "Sedum rubrotinctum which is commonly known as Jelly Beans, is a species of Sedum from the plant family Crassulaceae. It is a succulent plant originating in Mexico.  \n**This product is available for Local Delivery or Pick Up only.*"
+shortDescription: "Sedum rubrotinctum which is commonly known as Jelly Beans, is a species of Sedum from the plant family Crassulaceae. It is a succulent plant originating in Mexico.  \n**This product is available for Local Delivery or Pick Up only. [Contact us for more information.](http://m.me/tinysuccles)*"
 
 #product ID
 productID: "1"

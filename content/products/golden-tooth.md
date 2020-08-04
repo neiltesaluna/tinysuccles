@@ -4,7 +4,7 @@ date: 2020-19-16T15:33:12+10:00
 draft: false
 
 # meta description
-description : "A hybrid of Aloe perfoliata with Aloe brevifolia."
+description : "A hybrid of Aloe perfoliata with Aloe brevifolia. *Please see product information."
 
 # product Price
 price: 14.95
@@ -20,7 +20,7 @@ priceBefore: "$19.95"
 maxOrder: 4
 
 # Product Short Description
-shortDescription: "Aloe nobilis which is commonly known as the Golden Tooth, is a species of Crassula from the plant family Asphodelaceae. It is a hybrid, of Aloe perfoliata with Aloe brevifolia.  \n**This product is available for Local Delivery or Pick Up only.*"
+shortDescription: "Aloe nobilis which is commonly known as the Golden Tooth, is a species of Crassula from the plant family Asphodelaceae. It is a hybrid, of Aloe perfoliata with Aloe brevifolia.  \n**This product is available for Local Delivery or Pick Up only. [Contact us for more information.](http://m.me/tinysuccles)*"
 
 #product ID
 productID: "2"
