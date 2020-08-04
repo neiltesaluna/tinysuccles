@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "We are now open! 25% off your purchase."
-  content : "Free local delivery with minimum of two orders.  \n*Applicable Postcodes 3023, 3037, 3038, 3335, 3336*.\n\n Opening promo, limited time only!  \n**Ends 1 September 2020.**"
+  content : "Opening promo, limited time only!  \n**Ends 1 September 2020.**\n\nFree Melbourne Metro delivery.  \n**minimum of two items*."
   image : "images/circle.png"
 
 
@@ -24,7 +24,7 @@ extra:
 cta:
   enable : true
   title : "25% off on your purchase"
-  content : "Opening special. Limited time only."
+  content : "Opening promo, limited time only! **Ends 1 September 2020.**"
   image : "images/banner.png"
   overlayImage : ""
   button:
