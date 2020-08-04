@@ -105,6 +105,10 @@ parallaxbtm = "images/parallaxbtm.jpg"
   icon = "ti-instagram"
   link = "https://www.instagram.com/tinysuccles/"
 
+  [[params.social]]
+  icon = "ti-write"
+  link = "http://m.me/tinysuccles"
+
   # Contact Form
   [params.contact]
   formAction = "https://formspree.io/mvowdgpo" # contact form works with formspree.io"
