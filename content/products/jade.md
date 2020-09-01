@@ -6,8 +6,8 @@ draft: false
 description : "Native to the KwaZulu-Natal and Eastern Cape provinces of South Africa."
 
 # product Price
-price: 14.95
-priceBefore: "$19.95"
+price: 19.95
+priceBefore: ""
 
 # product shipping specification (weight in grams, dimensions in cm)
 productWeight: 600
