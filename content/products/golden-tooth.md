@@ -1,7 +1,7 @@
 ---
 title: "Aloe"
 date: 2020-19-16T15:33:12+10:00
-draft: false
+draft: true
 
 # meta description
 description : "A hybrid of Aloe perfoliata with Aloe brevifolia. *Please see product information."
