@@ -6,7 +6,7 @@ draft: false
 description : "A succulent plant native to semi-desert habitats in Mexico."
 
 # product Price
-price: 19.95
+price: 24.95
 priceBefore: ""
 
 # product shipping specification (weight in grams, dimensions in cm)

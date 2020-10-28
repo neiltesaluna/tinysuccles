@@ -7,7 +7,7 @@ draft: false
 description : "A hybrid of Aloe perfoliata with Aloe brevifolia. *Please see product information."
 
 # product Price
-price: 19.95
+price: 24.95
 priceBefore: ""
 
 # product shipping specification (weight in grams, dimensions in cm)
