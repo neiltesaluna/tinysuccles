@@ -69,7 +69,7 @@ home = "Home"
 description = "Bring life to your space."
 author = "Tiny Succles"
 # snipcart
-snipcartAPI = "ZTM1NTNkMGQtZTg0OC00MmY5LThkZDMtOGY2NzE3MTVmZGQwNjM3MzA0ODk0NDk3MjU1NTA3"
+snipcartAPI = "ZTQ4Y2E1NTctMDU2Ny00ZjM5LWJiMjYtOTZhMzQ1NzBjNDdlNjM3MzA0ODk0NDk3MjU1NTA3"
 # google map
 gmapAPI = ""
 mapLatitude = ""
